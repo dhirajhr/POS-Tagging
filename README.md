@@ -1,5 +1,8 @@
 # POS-Tagging
--Developed a Hidden Markov Model Part-of-Speech Tagger for English, Chinese and Hindi languages.<br/>
+<ul>
+  <li>
+Developed a Hidden Markov Model Part-of-Speech Tagger for English, Chinese and Hindi languages.
+  </li>
 -Performed a comparison between various transition and emission smoothing techniques which include Laplace Smoothing, Absolute Discounting and Good-Turing Smoothing.<br/>
 -Attained accuracy of 88% for English, 86% for Chinese and 92% for Hindi.<br/>
 -Trained the tagger on the corpus adapted from the English (Original) and Chinese (GSD) sections of the Universal Dependencies corpus.
